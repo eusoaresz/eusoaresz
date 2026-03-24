@@ -44,8 +44,7 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eu.soaresz&show_icons=true&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eu.soaresz&layout=compact&theme=dark"/>
+  <img height="150em" src="https://streak-stats.demolab.com?user=eu.soaresz&theme=dark&hide_border=true"/>
 </p>
 
 ---
