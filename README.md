@@ -50,23 +50,13 @@
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=eu.soaresz&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app?username=eu.soaresz&theme=onestar&no-frame=true&margin-w=10" height="150"/>
-</div>
-
----
-
 ## 📈 Atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eu.soaresz&theme=github-compact&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=eu.soaresz&theme=dark&hide_border=true"/>
 </p>
 
 ---
-
 
 ## 🧩 Projetos em destaque
 
@@ -74,9 +64,9 @@
 
 ---
 
-<!-- VISITORS -->
+<!-- VISITORS (CORRIGIDO) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eu.soaresz&color=grey"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eu.soaresz"/>
 </p>
 
 ---
