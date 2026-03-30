@@ -64,10 +64,9 @@
 
 ---
 
-<!-- VISITORS (CORRIGIDO) -->
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eu.soaresz"/>
-</p>
+## 🐍 Contribuições
+
+<img src="https://raw.githubusercontent.com/eu.soaresz/eu.soaresz/output/snake.svg" alt="Snake animation" />
 
 ---
 
