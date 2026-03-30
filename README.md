@@ -21,7 +21,7 @@
 ## 💻 Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,nodejs,react,figma" />
 </div>
 
 ---
@@ -38,13 +38,13 @@
 
 <div align="center">
   <a href="https://www.instagram.com/roger.psrs?igsh=Yjc5YnBtcnJ0Nzly&utm_source=qr">
-    <img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/roger-soares-89805734b/">
-    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/eu.soaresz">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
