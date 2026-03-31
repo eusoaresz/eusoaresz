@@ -13,7 +13,7 @@ jobs:
       - name: Generate snake
         uses: Platane/snk@v3
         with:
-          github_user_name: eu.soaresz
+          github_user_name: eusoaresz
           outputs: |
             dist/snake.svg
 
