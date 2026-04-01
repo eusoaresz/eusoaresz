@@ -66,7 +66,7 @@
 
 ## 🐍 Contribuições
 
-<img src="https://raw.githubusercontent.com/eusoaresz/eusoaresz/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/eusoaresz/eusoaresz/output/snake.svg?v=2" />
 ---
 
 <!-- RODAPÉ -->
