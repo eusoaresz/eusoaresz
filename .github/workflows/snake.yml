@@ -22,6 +22,7 @@ jobs:
           github_user_name: eusoaresz
           outputs: |
             dist/snake.svg?color_snake=black&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            dist/snake-dark.svg?palette=github-dark
 
       - name: Deploy snake
         uses: peaceiris/actions-gh-pages@v4
